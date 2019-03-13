@@ -1,6 +1,6 @@
 
 /**
- * Write a description of class secretFormula here.
+ * this is my demo project for githubb
  *
  * @author (your name)
  * @version (a version number or a date)
